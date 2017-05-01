@@ -10,7 +10,6 @@ use std::io::{BufRead, BufReader, Read, stdin};
 use std::collections::HashMap;
 use std::iter::FromIterator;
 
-
 fn main() {
 
     // get the list of words froms
